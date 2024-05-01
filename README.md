@@ -1,6 +1,6 @@
                                              ............Code Explanation..........
 1. We start by importing the necessary libraries such as pandas, scikit-learn modules for model building, and evaluation metrics.
-2. The Bank Marketing dataset is loaded from the UCI Machine Learning Repository using the provided URL.
+2. The Bank Marketing dataset is loaded from the UCI Machine Learning Repository using the provided Dataset.
 3. We encode the target variable 'y' using LabelEncoder to convert it into numerical values.
 4. Features and the target variable are selected from the dataset.
 5. The data is split into training and testing sets using the train_test_split function.
